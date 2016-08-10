@@ -3,6 +3,7 @@ import argparse
 import psycopg2
 import sys
 
+# TODO: Fix this broken shit using this example: https://docs.python.org/dev/library/argparse.html#sub-commands
 
 class SonicsSearcher(object):
     def __init__(self):
